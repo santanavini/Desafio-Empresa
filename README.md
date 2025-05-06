@@ -41,7 +41,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>config</b>: Pasta Vazia.
 
-- <b>document</b>: Aqui esta o documento em PDF da Solução Funcional e Técnica. Veja o documento completo: [FIAP - Enterprise Challenge - Sprint 1 Reply - 05_05.pdf](document/FIAP%20-%20Enterprise%20Challenge%20-%20Sprint%201%20Reply%20-%2005_05.pdf)
+- <b>document</b>: Aqui esta o documento em PDF da Solução Funcional e Técnica. 📄 Veja o documento completo: [FIAP - Enterprise Challenge - Sprint 1 - Reply - 05_05.pdf](document/FIAP%20-%20Enterprise%20Challenge%20-%20Sprint%201%20-%20Reply%20-%2005_05.pdf)
 
 
 - <b>scripts</b>: Pasta Vazia

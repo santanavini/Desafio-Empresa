@@ -36,7 +36,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 - <b>.github</b>: Nesta pasta ficarão os arquivos de configuração específicos do GitHub que ajudam a gerenciar e automatizar processos no repositório.
 
 - <b>assets</b>: Essa pasta contém a imagem do Diagrama.
-![Diagrama do Projeto](assets/nome-da-imagem.png)
+![Diagrama do Projeto](assets/Diagrama.png)
 
 
 - <b>config</b>: Pasta Vazia.

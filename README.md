@@ -8,7 +8,7 @@
 
 # Explorando Dados
 
-## Esses Caras
+## SoliTech
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/company/inova-fusca">Vinícius Pereira Santana 1</a>
@@ -26,7 +26,7 @@
 
 ## 📜 Descrição
 
-*O presente projeto tem como objetivo apresentar uma base de dados quantitativa discreta e contínua, e qualitativa nominal e ordinal. Para exibir uma analise exploratória em R, contendo medidas de tendênica central, dispersão, separatrizes e análise grafica.*
+*O presente projeto tem como objetivo apresentar uma solução Funcional e Técnica para o trabalho da terceira fase chamado FIAP - Enterprise Challenge - Sprint 1 - Reply*
 
 
 ## 📁 Estrutura de pastas
@@ -35,26 +35,26 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>.github</b>: Nesta pasta ficarão os arquivos de configuração específicos do GitHub que ajudam a gerenciar e automatizar processos no repositório.
 
-- <b>assets</b>: Aqui estão os arquivos de imagens com representação gráfica.
+- <b>assets</b>: Pasta Vazia.
 
-- <b>config</b>: Posicione aqui arquivos de configuração que são usados para definir parâmetros e ajustes do projeto.
+- <b>config</b>: Pasta Vazia.
 
-- <b>document</b>: Aqui esta o arquivo que serve como base de dados tabela_dados_pr.xlsx.
+- <b>document</b>: Aqui esta o documento em PDF da Solução Funcional e Técnica.
 
-- <b>scripts</b>: Aqui esta o arquivo em R atividade_cap7.R como um backup.
+- <b>scripts</b>: Pasta Vazia
 
-- <b>src</b>: Aqui esta o arquivo em R original atividade_cap7.R.
+- <b>src</b>: Pasta Vazia
 
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
 ## 🔧 Como executar o código
 
-*Para executar o código basta abrir o arquivo.R no R.studio*
+*Para verificar o documento em PDF basta baixar da pasta documento*
 
 
 ## 🗃 Histórico de lançamentos
 
-* 0.1.0 - 21/04/2025
+* 0.1.0 - 05/05/2025
     *
 
 ## 📋 Licença
